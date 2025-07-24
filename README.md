@@ -1,4 +1,4 @@
-# Travel Project
+# Tourism Management Project
 
 ## Table of Contents
 - [Introduction](#introduction)
